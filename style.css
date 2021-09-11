@@ -838,9 +838,9 @@ html {
 
     .sec1__imgBx {
         position: relative;
-        width: 30rem;
+        width: 20rem;
         /* background: red; */
-        margin-top: 5rem;
+        margin-top: 8rem;
     }
 
     .sec2__container {
